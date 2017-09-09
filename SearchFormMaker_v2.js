@@ -1841,7 +1841,7 @@ var CruiseSearchFormMaker = function (oUserSetting) {
 			console.log(er);
 		}
 			
-	}//end draw
+	}//end
 
 };
 
